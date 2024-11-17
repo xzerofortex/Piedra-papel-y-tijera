@@ -1,11 +1,6 @@
-- 
-- proyecto simple 
-- Piedra Papel y Tijera
--
-- el juego no termina asta que el usuario gane
-- 
-- se marca la cantidad de intentos al finalizar
-- 
--el bot elije aleatoria mente los elementos
--
--
+info codigo
+
+juego de piedra papel y tijera
+la variable bot escoje aleatoria mente los elementos 
+
+al finalizar marca la cantidad de intentos
