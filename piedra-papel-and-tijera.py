@@ -1,17 +1,14 @@
 
-# piedra papel and tijera
 import random
 import time
 
 elements = ('piedra','papel','tijera')
 intentos = 0
 
-# mantiene la partida en juego asta que gane el usuario
 while True:
     bot =random.choice(elements)
     you =input('elije (priedra/papel/tijera):  ')
 
-    # verifica si el usuario puso (piedra/papel/tijera) sino se repite
     if  you not in (elements):
         print('elemento no valido, usa uno de los siguientes (piedra/papel/tijera): ')
         continue
