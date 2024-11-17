@@ -48,31 +48,3 @@ while True:
 
 
 print(f'el juego termino con intentos:({intentos})')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
