@@ -42,7 +42,7 @@ while True:
         time.sleep(1)
         break
     elif you == 'tijera' and bot == 'papel':
-        print(f'perdistes  tu:({you})  -  bot:({bot})')
+        print(f'ganastes  tu:({you})  -  bot:({bot})')
         time.sleep(1)
         break
 
